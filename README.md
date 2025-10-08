@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-I’m a passionate frontend developer who’s always eager to learn, level up my skills, and dive into exciting new projects. Right now, I’m exploring the world of Node.js to gear up for full-stack development!
+I’m an enthusiastic frontend developer who’s passionate about problem solving and always eager to learn, level up my skills, and dive into exciting new projects. Right now, I’m exploring the world of Node.js to gear up for full-stack development!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [thanu.srimanthula005@gmail.com](mailto:thanu.srimanthula005@gmail.com)
